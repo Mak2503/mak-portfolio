@@ -2,7 +2,7 @@
 
 
 :root {
-    --primary: #374151;
+    --primary: #EE0727;
     --gray: #F3F4F6;
     --dark-gray:#6B7280;
 }
@@ -32,6 +32,8 @@ hr {
     padding-left: 1rem;
     padding-right: 1rem;
     max-width: 600px;
+    margin-top: 2.5rem;
+    text-align: center;
 }
 
 /** links **/
@@ -92,7 +94,7 @@ hr {
 /** header **/
 
 .hero {
-    color: var(--dark-gray);
+    color: var(--primary);
     display: block;
 }
 
