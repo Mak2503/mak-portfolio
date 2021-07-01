@@ -94,7 +94,7 @@ hr {
 /** header **/
 
 .hero {
-    color: var(--primary);
+    color: var(--dark-gray);
     display: block;
 }
 
